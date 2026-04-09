@@ -29,7 +29,7 @@ function App() {
 
       <div className="center-wrap">
         <div className="title-block">
-          <p className="label-tag">ALAN PRAFUL</p>
+          <p className="label-tag">ASHIK</p>
           <h1 className="title">VOICE<br /><span>ASSISTANT</span></h1>
         </div>
 
